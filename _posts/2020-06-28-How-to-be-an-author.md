@@ -1,5 +1,5 @@
 ---
-title: How to be an author
+title: "How to be an author!"
 date: 2020-06-28
 ---
 If you are like me and have a creative mind, your thoughts running through your head 
